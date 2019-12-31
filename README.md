@@ -29,3 +29,6 @@
 
 
 [10-correlation-power](/correlation-power.html)
+
+
+# the cvs file is used for 04-world-series-home-field.
